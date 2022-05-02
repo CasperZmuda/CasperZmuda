@@ -13,9 +13,11 @@ I'm still learning English 🤓
 ## 🛠 Technologies and tools
 
 **What I'm using :**
+<br>
 [![HTML](http://www.zmudakacper.pl/image/github/html.png)]()[![CSS](http://www.zmudakacper.pl/image/github/css.png)]()[![SASS](http://www.zmudakacper.pl/image/github/sass.png)]()[![JS](http://www.zmudakacper.pl/image/github/js.png)]()[![Git](http://www.zmudakacper.pl/image/github/git.png)]()[![GitHub](http://www.zmudakacper.pl/image/github/github.png)]()[![gulp](http://www.zmudakacper.pl/image/github/gulp.png)]()[![npm](http://www.zmudakacper.pl/image/github/npm.png)]()[![vsc](http://www.zmudakacper.pl/image/github/vsc.png)]()
 
 **What I am interested in learning at some point :**
+
 [![gsap](http://www.zmudakacper.pl/image/github/gsap.png)]()[![ts](http://www.zmudakacper.pl/image/github/ts.png)]()[![react](http://www.zmudakacper.pl/image/github/react.png)]()[![firebase](http://www.zmudakacper.pl/image/github/firebase.png)]()[![nodejs](http://www.zmudakacper.pl/image/github/node.png)]()[![styled](http://www.zmudakacper.pl/image/github/styled.png)]()
 
 ## 📊 Github Statistics
