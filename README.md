@@ -13,18 +13,52 @@ I'm still learning English 🤓
 ## 🛠 Technologies and tools
 
 **What I'm using :**
-<br>
-[![HTML](http://www.zmudakacper.pl/image/github/html.png)]()[![CSS](http://www.zmudakacper.pl/image/github/css.png)]()[![SASS](http://www.zmudakacper.pl/image/github/sass.png)]()[![JS](http://www.zmudakacper.pl/image/github/js.png)]()[![Git](http://www.zmudakacper.pl/image/github/git.png)]()[![GitHub](http://www.zmudakacper.pl/image/github/github.png)]()[![gulp](http://www.zmudakacper.pl/image/github/gulp.png)]()[![npm](http://www.zmudakacper.pl/image/github/npm.png)]()[![vsc](http://www.zmudakacper.pl/image/github/vsc.png)]()
+
+<p style="background-color: gold; height: 50px">
+    <img src="http://www.zmudakacper.pl/image/github/html.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/css.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/sass.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/js.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/git.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/github.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/gulp.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/npm.png"></img>
+    <img src="http://www.zmudakacper.pl/image/github/vsc.png"></img>
+</p>
+
 
 **What I am interested in learning at some point :**
 
-[![gsap](http://www.zmudakacper.pl/image/github/gsap.png)]()[![ts](http://www.zmudakacper.pl/image/github/ts.png)]()[![react](http://www.zmudakacper.pl/image/github/react.png)]()[![firebase](http://www.zmudakacper.pl/image/github/firebase.png)]()[![nodejs](http://www.zmudakacper.pl/image/github/node.png)]()[![styled](http://www.zmudakacper.pl/image/github/styled.png)]()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 Github Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CasperZmuda&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasperZmuda)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🔮 Visual Studio Code settings
 
