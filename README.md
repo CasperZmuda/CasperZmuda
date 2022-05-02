@@ -8,7 +8,7 @@ I'm still learning English 🤓
 
 ## First title
 
-- 👨‍💻 All of my projects are available at <a href="http://zmudakacper.pl">**kacperdev**</a>.
+- 👨‍💻 All of my projects are available at <a href="http://zmudakacper.pl">**zmudakacper.pl**</a>.
 
 ## 🛠 Technologies and tools
 
