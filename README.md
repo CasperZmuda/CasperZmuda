@@ -14,7 +14,7 @@ I'm still learning English 🤓
 
 **What I'm using :**
 
-<p style="background-color: gold; height: 50px">
+<p style="background-color: gold; height: 50px;">
     <img src="http://www.zmudakacper.pl/image/github/html.png"></img>
     <img src="http://www.zmudakacper.pl/image/github/css.png"></img>
     <img src="http://www.zmudakacper.pl/image/github/sass.png"></img>
@@ -23,7 +23,7 @@ I'm still learning English 🤓
     <img src="http://www.zmudakacper.pl/image/github/github.png"></img>
     <img src="http://www.zmudakacper.pl/image/github/gulp.png"></img>
     <img src="http://www.zmudakacper.pl/image/github/npm.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/vsc.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/vsc.png"></img>
 </p>
 
 
