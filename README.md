@@ -15,14 +15,14 @@ I'm still learning English 🤓
 **What I'm using :**
 
 <p style="background-color: gold; height: 50px;">
-    <img src="http://www.zmudakacper.pl/image/github/html.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/css.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/sass.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/js.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/git.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/github.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/gulp.png"></img>
-    <img src="http://www.zmudakacper.pl/image/github/npm.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/html.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/css.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/sass.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/js.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/git.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/github.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/gulp.png"></img>
+    <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/npm.png"></img>
     <img style="height: 50px;" src="http://www.zmudakacper.pl/image/github/vsc.png"></img>
 </p>
 
