@@ -1,4 +1,4 @@
-![Design and Development](http://zmudakacper.pl/image/banner.png)
+![Design and Development](http://zmudakacper.pl/image/baner.png)
 
 # Hi I'm Casper 👋
 
