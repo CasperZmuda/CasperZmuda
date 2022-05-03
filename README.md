@@ -6,9 +6,9 @@ Simple Description...
 
 I'm still learning English 🤓
 
-## First title
+## Info
 
-- 👨‍💻 All of my projects are available at <a href="http://zmudakacper.pl">**zmudakacper.pl**</a>.
+- 👨‍💻 All of my projects are available at <a href="http://zmudakacper.pl">**zmudakacper.pl**</a>
 
 ## 🛠 Technologies and tools
 
