@@ -10,6 +10,7 @@ I'm still learning English 🤓
 
 ## ✨ Info
 
+- 🍕 I love pizza ❤️
 - 🫂 My discord TAG `SARF#2003`
 - 👨‍💻 All of my projects are available at <a href="http://zmudakacper.pl">**zmudakacper.pl**</a>
 
