@@ -51,50 +51,76 @@ I'm still learning English 🤓
 
 ```json
 {
-    "breadcrumbs.enabled": false,
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 500,
-    "files.associations": {
-        "*.kit": "html"
-    },
-    "editor.formatOnSave": true,
-    "editor.wordWrap": "on",
-    "editor.linkedEditing": true,
-    "editor.cursorBlinking": "expand",
-    "editor.fontSize": 16,
-    "editor.tabSize": 2,
-    "editor.cursorWidth": 3,
-    "editor.letterSpacing": 1,
-    "editor.lineHeight": 30,
-    "editor.bracketPairColorization.enabled": true,
-    "window.zoomLevel": -1,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "workbench.colorCustomizations": {
-        "editorBracketHighlight.foreground1": "#ffd700",
-        "editorBracketHighlight.foreground2": "#ff00ff",
-        "editorBracketHighlight.foreground3": "#00bfff",
-        "editorBracketHighlight.foreground4": "#7cfc00",
-        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
-    },
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.fontSize": 17,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "liveSassCompile.settings.formats": [
-        {
-            "format": "expanded",
-            "extensionName": ".css",
-            "savePath": "/css/"
-        }
-    ],
-    "liveSassCompile.settings.autoprefix": [
-        "> 1%",
-        "last 2 versions"
-    ],
-    "git.confirmSync": true,
-    "workbench.colorTheme": "Atom One Dark",
-    "timeline.excludeSources": [
-        "timeline.localHistory"
-    ]
+	//themes and colors
+	"workbench.colorTheme": "Tokyo Night",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorCustomizations": {
+		"editorBracketHighlight.foreground1": "#ffd700",
+		"editorBracketHighlight.foreground2": "#ff00ff",
+		"editorBracketHighlight.foreground3": "#00bfff",
+		"editorBracketHighlight.foreground4": "#7cfc00",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+	},
+
+	//settings
+	"files.autoSave": "afterDelay",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"editor.formatOnSave": true,
+	"files.autoSaveDelay": 500,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.bracketPairColorization.enabled": true,
+	"timeline.excludeSources": ["timeline.localHistory"],
+	"window.commandCenter": true,
+	"git.confirmSync": true,
+	"files.associations": {
+		"*.kit": "html"
+	},
+
+	//ui/ux
+	"editor.wordWrap": "on",
+	"editor.linkedEditing": true,
+	"editor.cursorBlinking": "expand",
+	"editor.fontSize": 16,
+	"editor.tabSize": 2,
+	"editor.cursorWidth": 3,
+	"editor.letterSpacing": 1,
+	"editor.lineHeight": 30,
+	"window.zoomLevel": -1,
+	"workbench.startupEditor": "none",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontSize": 17,
+
+	//sass
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/css"
+		}
+	],
+	"liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+
+	//prettier
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.bracketSameLine": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 120,
+
+	//other
+	"emmet.triggerExpansionOnTab": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	}
 }
 ```
