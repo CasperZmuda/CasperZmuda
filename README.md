@@ -119,7 +119,6 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 	"prettier.arrowParens": "avoid",
 	"prettier.jsxSingleQuote": true,
 	"prettier.bracketSameLine": true,
-	"prettier.semi": false,
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
 	"prettier.printWidth": 120,
@@ -127,7 +126,7 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 	//other
 	"emmet.triggerExpansionOnTab": true,
 	"[html]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
+		"editor.defaultFormatter": "vscode.html-language-features"
 	},
 	"emmet.syntaxProfiles": {
 		"html": {
