@@ -9,7 +9,7 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 - 🍕 I love pizza ❤️
 - 🫂 My discord `SARF#3480`
 - 👨‍💻 All of my projects are available at **_not ready yet..._**
-<!-- <a href="http://zmudakacper.pl">**zmudakacper.pl**</a> -->
+<!-- <a href="https://zmudakacper.dev">**zmudakacper.dev**</a> -->
 
 ## 🛠 Technologies and tools
 
@@ -48,6 +48,7 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 
 - Bearded Theme _(BeardedBear)_
 - Bearded Icons _(BeardedBear)_
+- CodeSnap _(adpyke)_
 - Discord Presence _(Crawl)_
 - HTML CSS Support _(ecmel)_
 - JavaScript (ES6) code snippets _(charalampos karypidis)_
@@ -67,37 +68,39 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
 	"workbench.iconTheme": "bearded-icons",
 	"workbench.colorCustomizations": {
-		"editorBracketHighlight.foreground1": "#ffd700",
-		"editorBracketHighlight.foreground2": "#ff00ff",
-		"editorBracketHighlight.foreground3": "#00bfff",
-		"editorBracketHighlight.foreground4": "#7cfc00",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+		"editorBracketHighlight.foreground1": "#CC99C9",
+		"editorBracketHighlight.foreground2": "#9EC1CF",
+		"editorBracketHighlight.foreground3": "#9EE09E",
+		"editorBracketHighlight.foreground4": "#FDFD97",
+		"editorBracketHighlight.foreground5": "#FEB144",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#FF6663"
 	},
 
 	//settings
 	"files.autoSave": "afterDelay",
 	"liveServer.settings.donotShowInfoMsg": true,
-	"editor.formatOnSave": true,
 	"files.autoSaveDelay": 500,
 	"editor.bracketPairColorization.enabled": true,
-	"window.commandCenter": true,
 	"git.confirmSync": false,
 	"liveServer.settings.CustomBrowser": "Brave Browser.app",
 	"liveServer.settings.donotVerifyTags": true,
-	"editor.smoothScrolling": true,
-	"editor.cursorSmoothCaretAnimation": true,
-	"workbench.list.smoothScrolling": true,
 	"terminal.integrated.smoothScrolling": true,
+	"editor.formatOnSave": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.smoothScrolling": true,
 	"editor.wordWrap": "on",
 	"editor.linkedEditing": true,
 	"editor.cursorBlinking": "smooth",
-	"editor.fontSize": 18,
+	"editor.fontSize": 15,
 	"editor.tabSize": 2,
-	"window.zoomLevel": -1,
 	"editor.cursorWidth": 3,
 	"editor.letterSpacing": 1,
 	"editor.lineHeight": 30,
+	"editor.accessibilitySupport": "off",
+	"window.commandCenter": true,
 	"workbench.startupEditor": "none",
+	"workbench.list.smoothScrolling": true,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.fontSize": 17,
 	"files.associations": {
@@ -121,7 +124,6 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 	"prettier.bracketSameLine": true,
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
-	"prettier.printWidth": 120,
 
 	//other
 	"emmet.triggerExpansionOnTab": true,
@@ -135,6 +137,16 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 	},
 	"emmet.variables": {
 		"lang": "pl"
-	}
+	},
+	"codesnap.transparentBackground": true,
+	"codesnap.backgroundColor": "transparent",
+	"codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px -30px",
+	"breadcrumbs.enabled": false,
+	"markdown-preview-enhanced.previewTheme": "github-dark.css",
+	"terminal.integrated.env.osx": {
+		"FIG_NEW_SESSION": "1"
+	},
+	"liveServer.settings.fullReload": true,
+	"html.format.wrapLineLength": 0
 }
 ```
