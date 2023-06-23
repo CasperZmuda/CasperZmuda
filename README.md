@@ -1,5 +1,3 @@
-![Design and Development](./pictures/baner.png)
-
 ![](https://komarev.com/ghpvc/?username=CasperZmuda)
 
 # Hello I'm Casper 🌊
