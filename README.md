@@ -59,13 +59,14 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 - Sass _(Syler)_
 - SmoothType _(spikespaz)_
 - Trailing Spaces _(Shardul Mahadik)_
+- TODO Highlight _(Wayou Liu)_
 
 ## 🔮 Visual Studio Code settings
 
 ```json
 {
 	//themes and colors
-	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
+	"workbench.colorTheme": "Bearded Theme Monokai Reversed",
 	"workbench.iconTheme": "bearded-icons",
 	"workbench.colorCustomizations": {
 		"editorBracketHighlight.foreground1": "#CC99C9",
@@ -147,6 +148,7 @@ A 19 year old guy from Poland. I'm still learning English. 🤓
 		"FIG_NEW_SESSION": "1"
 	},
 	"liveServer.settings.fullReload": true,
-	"html.format.wrapLineLength": 0
+	"html.format.wrapLineLength": 0,
+	"diffEditor.ignoreTrimWhitespace": false
 }
 ```
