@@ -2,14 +2,7 @@
 
 # Hello I'm Casper 🌊
 
-A 19 year old guy from Poland. I'm still learning English. 🤓
-
-## ✨ Info
-
-- 🍕 I love pizza ❤️
-- 🫂 My discord `casper_03`
-- 👨‍💻 All of my projects are available at **_not ready yet..._**
-<!-- <a href="https://zmudakacper.dev">**zmudakacper.dev**</a> -->
+A 19 year old guy from Poland, I love pizza. 🤓
 
 ## 🛠 Technologies and tools
 
