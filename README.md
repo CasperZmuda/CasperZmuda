@@ -142,6 +142,9 @@ A 19 year old guy from Poland, I love pizza. 🤓
 	},
 	"liveServer.settings.fullReload": true,
 	"html.format.wrapLineLength": 0,
-	"diffEditor.ignoreTrimWhitespace": false
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontLigatures": true,
+	"prettier.printWidth": 100
 }
 ```
