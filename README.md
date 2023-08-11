@@ -8,28 +8,20 @@ A 19 year old guy from Poland, I love pizza. 🤓
 
 **What I'm using:**
 
-<p>
-    <img style="height: 50px;" src="pictures/html.png"></img>
-    <img style="height: 50px;" src="pictures/css.png"></img>
-    <img style="height: 50px;" src="pictures/sass.png"></img>
-    <img style="height: 50px;" src="pictures/js.png"></img>
-    <img style="height: 50px;" src="pictures/git.png"></img>
-    <img style="height: 50px;" src="pictures/github.png"></img>
-    <img style="height: 50px;" src="pictures/gulp.png"></img>
-    <img style="height: 50px;" src="pictures/npm.png"></img>
-    <img style="height: 50px;" src="pictures/vsc.png"></img>
-</p>
+- HTML
+- CSS (SCSS)
+- JS ES6+
+- Git & GitHub
+- Vite
+- Visual Studio Code
+- NPM
 
 **What I am interested in learning at some point:**
 
-<p>
-    <img style="height: 50px;" src="pictures/gsap.png"></img>
-    <img style="height: 50px;" src="pictures/ts.png"></img>
-    <img style="height: 50px;" src="pictures/react.png"></img>
-    <img style="height: 50px;" src="pictures/firebase.png"></img>
-    <img style="height: 50px;" src="pictures/node.png"></img>
-    <img style="height: 50px;" src="pictures/styled.png"></img>
-</p>
+- Typescript
+- React
+- Firebase / Supabase
+- Node.js
 
 ## 📊 Github Statistics
 
