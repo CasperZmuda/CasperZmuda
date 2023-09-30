@@ -2,7 +2,7 @@
 
 # Hello I'm Casper 🌊
 
-A 19 year old guy from Poland, I love pizza. 🤓
+A 20 year old guy from Poland, I love pizza. 🤓
 
 ## 🛠 Technologies and tools
 
@@ -15,6 +15,8 @@ A 19 year old guy from Poland, I love pizza. 🤓
 - Vite
 - Visual Studio Code
 - NPM
+- Chat GPT
+- Figma
 
 **What I am interested in learning at some point:**
 
@@ -22,6 +24,8 @@ A 19 year old guy from Poland, I love pizza. 🤓
 - React
 - Firebase / Supabase
 - Node.js
+- SEO
+- Design
 
 ## 📊 Github Statistics
 
