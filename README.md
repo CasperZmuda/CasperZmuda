@@ -17,14 +17,15 @@ A 20 year old guy from Poland, I love pizza. 🤓
 - NPM
 - Chat GPT
 - Figma
+- SEO
 
 **What I am interested in learning at some point:**
 
 - Typescript
 - React
+- Astro
 - Firebase / Supabase
 - Node.js
-- SEO
 - Design
 
 ## 📊 Github Statistics
