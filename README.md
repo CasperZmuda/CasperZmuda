@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=CasperZmuda)
 
 # Hello I'm Casper 🌊
-
-A 20 year old guy from Poland, I love pizza. 🤓
+A 21 year old Junior Front-End Developer from Poland, I love pizza. 🤓
 
 ## 🛠 Technologies and tools
 
@@ -13,19 +12,18 @@ A 20 year old guy from Poland, I love pizza. 🤓
 - JS ES6+
 - Git & GitHub
 - Vite
-- Visual Studio Code
+- Visual Studio Code / WebStorm
 - NPM
-- Chat GPT
-- Figma
+- AI
+- Figma / Adobe
 
 **What I am interested in learning at some point:**
 
 - Typescript
-- React
+- Angular
 - Astro
 - Firebase / Supabase
 - Node.js
-- Design
 
 ## 📊 Github Statistics
 
