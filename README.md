@@ -24,6 +24,7 @@ A 21 year old Junior Front-End Developer from Poland, I love pizza. 🤓
 - Astro
 - Firebase / Supabase
 - Node.js
+- Tailwind CSS
 
 ## 📊 Github Statistics
 
