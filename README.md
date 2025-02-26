@@ -10,4 +10,4 @@
 
 ### 🪼 Uczę się:
 
-[![uczę się](https://skillicons.dev/icons?i=ts,angular,astro,tailwind,wordpress,vite,webstorm)](https://skillicons.dev)
+[![uczę się](https://skillicons.dev/icons?i=ts,angular,tailwind,wordpress,vite,webstorm)](https://skillicons.dev)
