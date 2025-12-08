@@ -1,13 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=CasperZmuda)
 
-# Cześć, jestem Kacper 🌊
+# 🌊 I'm Kacper
 
-🤿 Jestem front-end developerem, email developerem i UI/UX designerem. Tworzę nowoczesne i dopracowane interfejsy, łącząc estetykę z funkcjonalnością. Poza kodowaniem interesuję się sportem, podróżami i pizzą.
+🤿 Vibe coder, email marketing dev, ui/ux designer, seo enjoyer. I code sometimes and I love pizza. Based in 🇵🇱
 
-### 🪸 Używam:
+### 🪸 My tech stack:
 
-[![używam](https://skillicons.dev/icons?i=html,css,scss,js,git,github,npm,figma,webstorm,wordpress)](https://skillicons.dev)
-
-### 🪼 Uczę się:
-
-[![uczę się](https://skillicons.dev/icons?i=ts,astro,tailwind)](https://skillicons.dev)
+[![My tech stack](https://skillicons.dev/icons?i=ts,react,astro,figma)](https://skillicons.dev)
