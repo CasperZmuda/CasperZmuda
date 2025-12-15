@@ -2,7 +2,7 @@
 
 # 🌊 I'm Kacper
 
-🤿 Vibe coder, email marketing dev, ui/ux designer, seo enjoyer. I code sometimes and I love pizza. Based in 🇵🇱
+🤿 Vibe coder, email marketing dev, ui/ux designer, seo enjoyer. I code sometimes and I study psychology. Based in 🇵🇱
 
 ### 🪸 My tech stack:
 
