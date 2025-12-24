@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=CasperZmuda)
 
-# 🌊 I'm Kacper
+# 🌊 Hello World
 
-🤿 Vibe coder, email marketing dev, ui/ux designer, seo enjoyer. I code sometimes and I study psychology. Based in 🇵🇱
+🤿 I'm **Kacper** from Poland 🇵🇱. I'm a junior frontend developer, vibe coder, email marketing specialist, lead generation creator, UI/UX designer, and SEO enjoyer. I code sometimes, do some sports, and study psychology.
 
-### 🪸 My tech stack:
+### 🪸 What I use:
 
-[![My tech stack](https://skillicons.dev/icons?i=ts,react,astro,figma)](https://skillicons.dev)
+[![What I use](https://skillicons.dev/icons?i=ts,react,firebase,figma,apple)](https://skillicons.dev)
