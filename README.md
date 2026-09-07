@@ -10,4 +10,4 @@ Doświadczenie zdobywałem przy projektach dla: **TVN24 · Warner Bros · eSky �
 
 **SEO / Marketing:** DataForSEO · MailerLite · GetResponse · Google Search Console
 
-**Narzędzia:** Figma · GitHub · Hostinger · Cloudflare · Notion · Claude / Claude Code
+**Narzędzia:** Figma · GitHub · Hostinger · Cloudflare · Notion · Claude / Claude Code · ClickUp
